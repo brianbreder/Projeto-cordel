@@ -101,3 +101,7 @@ footer{
     text-align: center;
     padding: 10px;
 }
+a::after{
+    content: '\99813';
+    content: '\1f517';
+} 
